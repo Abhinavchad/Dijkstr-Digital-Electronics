@@ -2,7 +2,7 @@
 
 Skills: Proteus 7, Digital Electronics, Algorithm
 
- - I am Mehul Kumar Sahoo, and I am pursuing Electronics Engineering at IIT(BHU), Varanasi. This repository contains a 
+ - I am Abhinav chaudhary, and I am pursuing Electronics Engineering at IIT(BHU), Varanasi. This repository contains a 
 simulation for the digital circuit for the Dijkstra algorithm (maximum eight nodes).
 
  - The "Dijkstra_Final.dsn" file contains the design file that runs on **Proteus Software**.
